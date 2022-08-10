@@ -206,6 +206,7 @@ public class Carro {
 		}
 		if (this.velocidadeAtual >= 160 && this.velocidadeAtual < 220) {
 			System.out.println("Carro na 5º Marcha");
+			System.out.println("oi");
 		}
 		return null;
 	}
